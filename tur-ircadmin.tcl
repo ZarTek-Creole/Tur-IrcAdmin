@@ -1,5 +1,5 @@
 ##############################################################################
-# Tur-IrcAdmin.tcl 1.2 by ARTISPRETIS (artispretis@gmail.com)                #
+# Tur-IrcAdmin.tcl 1.2 by Creole (Creole@gmail.com)                #
 #                                                                            #
 #  [ CHANGELOG ]                                                             #
 # ADD: TCL NAME SPACE :    Avoid conflicts with other scripts                #
@@ -82,4 +82,4 @@ proc ::Tur::IrcAdmin::msg { nick host hand text } {
 	}
 }
 
-putlog "Tur-IrcAdmin.tcl 1.2 by artispretis loaded"
+putlog "Tur-IrcAdmin.tcl 1.2 by Creole loaded"
